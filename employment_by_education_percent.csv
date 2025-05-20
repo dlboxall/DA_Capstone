@@ -1,0 +1,37 @@
+EducationLevel,EmploymentSimplified,Count,Percentage
+Other,Full-time,3189,67.7357689039932
+Other,Other,138,2.931180968564146
+Other,Part-time,479,10.174171622769753
+Other,Retired,45,0.9558198810535259
+Other,Self-employed,561,11.91588785046729
+Other,Unemployed,296,6.287170773152082
+High school,Full-time,2572,69.0469798657718
+High school,Other,78,2.0939597315436242
+High school,Part-time,408,10.953020134228188
+High school,Retired,16,0.4295302013422818
+High school,Self-employed,396,10.630872483221477
+High school,Unemployed,255,6.845637583892618
+Some college,Full-time,3947,70.74744577881341
+Some college,Other,45,0.8065961641871302
+Some college,Part-time,466,8.352751389137838
+Some college,Retired,51,0.914142319412081
+Some college,Self-employed,769,13.78383222799785
+Some college,Unemployed,301,5.395232120451694
+Bachelors,Full-time,9305,75.65040650406503
+Bachelors,Other,74,0.6016260162601627
+Bachelors,Part-time,852,6.926829268292684
+Bachelors,Retired,71,0.5772357723577236
+Bachelors,Self-employed,1512,12.292682926829269
+Bachelors,Unemployed,486,3.951219512195122
+Masters,Full-time,6501,75.49645801881314
+Masters,Other,49,0.5690396005109744
+Masters,Part-time,533,6.189757287190802
+Masters,Retired,61,0.7083962373708048
+Masters,Self-employed,1224,14.214376959702706
+Masters,Unemployed,243,2.8219718964115668
+Professional,Full-time,1869,77.5840597758406
+Professional,Other,26,1.0792860107928601
+Professional,Part-time,132,5.47945205479452
+Professional,Retired,60,2.4906600249066
+Professional,Self-employed,254,10.543794105437941
+Professional,Unemployed,68,2.82274802822748
