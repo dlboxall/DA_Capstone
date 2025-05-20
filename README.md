@@ -14,7 +14,7 @@ This repository contains a series of Jupyter notebooks for the IBM Data Analyst 
 | 10    | Normalizing Data                       | `10-normalizing-data.ipynb`           |
 | 11    | Data Wrangling                         | `11-data-wrangling.ipynb`             |
 | 12    | Exploratory Data Analysis              | `12-exploratory-analysis.ipynb`       |
-| 12b   | Employment vs Education Visualization  | `12b-employment-by-education.ipynb`   |
+| 12b   | Employment vs Education Visualization  | `12b-employment-by-education.csv`     |
 
 ---
 
